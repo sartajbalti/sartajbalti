@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sartajbalti
-- 👀 I’m interested in ... a masters student at Nanjing University of Science and TEchnology
+- 👀 I’m a PhD Student at University of Electro-Communications Chofu Japan
 - 🌱 I’m currently learning ... Machine Learning
 -
 - 📫 How to reach me ...sartajbalti@njust.edu.cn
