@@ -4,7 +4,9 @@ Sartaj Ahmed Salman
 ============
 
 -------------------     ----------------------------
-The University of Electro-Communications, Tokyo, Japan                        s2140019@edu.cc.uec.ac.jp
+The University of Electro-Communications, Tokyo, Japan                   
+
+s2140019@edu.cc.uec.ac.jp
 
 -------------------     ----------------------------
 
