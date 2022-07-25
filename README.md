@@ -4,7 +4,7 @@ Sartaj Ahmed Salman
 ============
 
 -------------------     ----------------------------
-Tokyo, Japan                        s2140019@edu.cc.uec.ac.jp
+The University of Electro-Communications, Tokyo, Japan                        s2140019@edu.cc.uec.ac.jp
 
 -------------------     ----------------------------
 
@@ -18,7 +18,7 @@ Education
 :   **MS, Computer Science**; Nanjing University of Science and Technology (Nanjing, China)
 
 Research Interests 
-:   **** Machine Learning, Computer Vision, Artificial Intelligence and Data Science
+: Machine Learning, Computer Vision, Artificial Intelligence and Data Science
 
 
 
